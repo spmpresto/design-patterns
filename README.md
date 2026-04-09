@@ -1,8 +1,4 @@
-# 📘 Design Patterns (PHP)
-
-Коллекция **паттернов проектирования** с примерами реализации на PHP.
-
----
+## Design Patterns (PHP)
 
 ## Creational (Порождающие)
 
