@@ -1,0 +1,10 @@
+.idea/
+# Composer
+/vendor/
+composer.phar
+# Environment
+.env
+.env.local
+# OS files
+.DS_Store
+Thumbs.db
